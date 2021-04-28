@@ -9,4 +9,4 @@
 - Đầu tiên tải xuống file zip.
 - Sau đó giải nén chạy 2048.exe để chơi.
 # NGUỒN THAM KHẢO
-- Game được tham khảo qua các nguồn trên mạng
+- Game được tham khảo tại https://github.com/Chotom/SDL-2048
